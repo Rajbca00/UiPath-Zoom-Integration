@@ -3,10 +3,13 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "JWT": "[8.9.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
+    "UiPath.Form.Activities": "[1.9.1]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.4]",
-    "UiPath.UIAutomation.Activities": "[21.10.5]"
+    "UiPath.UIAutomation.Activities": "[21.10.5]",
+    "UiPath.WebAPI.Activities": "[1.9.2]"
   },
   "webServices": [],
   "entitiesStores": [],
